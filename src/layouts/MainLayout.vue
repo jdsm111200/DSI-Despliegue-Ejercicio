@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          Quasar App
+          Ejercicio de Despliegue - SM18003
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
